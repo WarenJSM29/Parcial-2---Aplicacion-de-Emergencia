@@ -1,3 +1,5 @@
+// Estudiante: Waren Sanchez || Matrícula: 2023-1198
+
 import 'package:flutter/material.dart';
 import '../db/database_helper.dart';
 import '../models/event.dart';

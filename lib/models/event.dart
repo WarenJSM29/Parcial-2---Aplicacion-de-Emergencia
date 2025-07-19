@@ -1,3 +1,5 @@
+// Estudiante: Waren Sanchez || Matrícula: 2023-1198
+
 class Event {
   final String id;
   final String title;
